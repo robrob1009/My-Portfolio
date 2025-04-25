@@ -240,7 +240,6 @@ img {
   text-align: center;
 }
 .about__subtitle {
-  padding-left: 2px;
   margin-bottom: var(--mb-2);
 }
 .about__img {
@@ -414,7 +413,8 @@ img {
     padding-top: 2rem;
   }
   .contact__container {
-    justify-items: center;
+    align-content: center;
+    align-items: center;
   }
 }
 @media screen and (min-width: 768px) {
