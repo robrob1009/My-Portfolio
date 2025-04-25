@@ -409,12 +409,11 @@ img {
     padding-top: 2rem;
   }
   .contact__form {
-    width: 350px;
+    width: 300px;
     padding-top: 2rem;
   }
   .contact__container {
-    align-content: center;
-    align-items: center;
+    justify-items: center;
   }
 }
 @media screen and (min-width: 768px) {
