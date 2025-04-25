@@ -409,7 +409,7 @@ img {
     padding-top: 2rem;
   }
   .contact__form {
-    align-items: center;
+    justify-content: center;
     width: 350px;
     padding-top: 2rem;
   }
