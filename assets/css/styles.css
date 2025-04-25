@@ -413,6 +413,7 @@ img {
     padding-top: 2rem;
   }
   .contact__container {
+    align-items: center;
     justify-items: center;
   }
 }
@@ -474,7 +475,7 @@ img {
 }
 @media screen and (min-width: 992px) {
   .bd-grid {
-    margin-left: auto;
+    margin-left: 20px;
     margin-right: auto;
   }
   .home {
