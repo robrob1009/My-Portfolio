@@ -240,6 +240,7 @@ img {
   text-align: center;
 }
 .about__subtitle {
+  padding-left: 2px;
   margin-bottom: var(--mb-2);
 }
 .about__img {
@@ -409,7 +410,7 @@ img {
     padding-top: 2rem;
   }
   .contact__form {
-    width: 500px;
+    width: 350px;
     padding-top: 2rem;
   }
   .contact__container {
