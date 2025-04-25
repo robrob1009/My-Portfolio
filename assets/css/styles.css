@@ -72,7 +72,7 @@ img {
 
 /*===== CLASS CSS ===== */
 .section-title {
-  position: relative;
+  justify-items: center;
   font-size: var(--h2-font-size);
   color: var(--first-color);
   margin-top: var(--mb-2);
