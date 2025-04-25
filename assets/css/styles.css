@@ -72,7 +72,7 @@ img {
 
 /*===== CLASS CSS ===== */
 .section-title {
-  justify-items: center;
+  position: relative;
   font-size: var(--h2-font-size);
   color: var(--first-color);
   margin-top: var(--mb-2);
@@ -474,6 +474,7 @@ img {
 }
 @media screen and (min-width: 992px) {
   .bd-grid {
+    align-items: center;
     margin-left: 20px;
     margin-right: auto;
   }
